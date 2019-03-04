@@ -1,0 +1,1 @@
+# messaging design pattern (MDP):
